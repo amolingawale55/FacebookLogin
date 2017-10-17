@@ -19,6 +19,8 @@ public class MyApplication extends MultiDexApplication {
         //
         /////VIKAS
 
+        ////////////////AMOLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
         super.onCreate();
         mInstance = this;
         //Service is below
