@@ -17,7 +17,7 @@ public class MyApplication extends MultiDexApplication {
     @Override
     public void onCreate() {
         //
-        /////
+        /////VIKAS
 
         super.onCreate();
         mInstance = this;
