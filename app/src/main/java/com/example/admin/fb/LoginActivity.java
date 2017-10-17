@@ -112,7 +112,7 @@ public class LoginActivity extends AppCompatActivity {
 
             }
         });
-
+///////////
         ///////
 
         btnLogin.setReadPermissions(PERMISSIONS);
