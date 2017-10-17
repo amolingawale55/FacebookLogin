@@ -113,6 +113,8 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
+        ///////
+
         btnLogin.setReadPermissions(PERMISSIONS);
         btnLogin.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
             @Override
