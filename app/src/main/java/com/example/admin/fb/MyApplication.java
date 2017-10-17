@@ -16,6 +16,8 @@ public class MyApplication extends MultiDexApplication {
     public static Typeface roboto_light;
     @Override
     public void onCreate() {
+        //
+        /////
 
         super.onCreate();
         mInstance = this;
